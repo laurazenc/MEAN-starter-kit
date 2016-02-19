@@ -1,0 +1,20 @@
+{
+  "name": "My app",
+  "version": "1.0.0",
+  "description": "Some nice description of my app.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Doe",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "gulp": "^3.9.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^2.2.0",
+    "mongoose": "^4.4.4",
+    "morgan": "^1.7.0"
+  }
+}
