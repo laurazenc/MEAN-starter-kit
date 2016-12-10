@@ -1,12 +1,11 @@
 {
-  "name": "blogram",
-  "description": "MEAN Challenge #1: Create a fully functional blog &amp; image sharing Web Application from scratch.",
+  "name": "my-app",
+  "description": "MEAN starter kit",
   "main": "server.js",
   "authors": [
     "Laura Coalla Cencerrado"
   ],
   "license": "ISC",
-  "homepage": "https://github.com/laurazenc/Blogram",
   "moduleType": [
     "node"
   ],

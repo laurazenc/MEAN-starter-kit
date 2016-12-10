@@ -1,17 +1,19 @@
 {
-  "name": "My app",
+  "name": "my-app",
   "version": "1.0.0",
-  "description": "Some nice description of my app.",
+  "description": "MEAN starter kit",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "John Doe",
+  "author": "Laura Coalla Cencerrado",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.15.0",
+    "browser-sync": "^2.18.2",
     "express": "^4.13.4",
     "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1",
     "gulp-plumber": "^1.1.0",
     "gulp-sass": "^2.2.0",
     "mongoose": "^4.4.4",
